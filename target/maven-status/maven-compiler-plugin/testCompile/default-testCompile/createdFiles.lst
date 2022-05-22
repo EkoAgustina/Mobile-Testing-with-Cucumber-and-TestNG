@@ -1,2 +1,2 @@
-capa\BasicClass.class
 cucumber_Runner\TestRunner.class
+hooks\driverHooks.class
